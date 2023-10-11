@@ -9,4 +9,7 @@
 # Atualizando branches remotas
 * git fetch --prune
 
-# 
+# Abrindo SSI
+* git checkout producao
+* git pull
+* git checkout -b  ssi_`numero`
