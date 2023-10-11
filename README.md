@@ -13,3 +13,6 @@
 * git checkout producao
 * git pull
 * git checkout -b  ssi_`numero`
+
+# Mostrar todas as branches
+* git branch -a
