@@ -3,7 +3,7 @@
 # Atualizando branch
 * git checkout producao
 * git pull
-* git checkout
+* git checkout `branch`
 * git merge producao
 
 # Atualizando branches remotas
