@@ -16,3 +16,6 @@
 
 # Mostrar todas as branches
 * git branch -a
+
+# Deletar branch remota
+* git push --delete origin `branch`
